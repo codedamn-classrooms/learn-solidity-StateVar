@@ -2,9 +2,5 @@
 pragma solidity >=0.5.0 <0.9.0;
 
 contract StateVar {
-    uint256 public rollNumber;
-
-    constructor() {
-        rollNumber = 10;
-    }
+   
 }
