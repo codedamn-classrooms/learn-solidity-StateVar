@@ -1,0 +1,2 @@
+tabs: ['contracts/StateVar.sol']
+terminals: ['yarn install']
